@@ -1,0 +1,36 @@
+{
+  "name": "react-native-anchor-parser",
+  "version": "0.0.2",
+  "description": "You can convert Acchor tag with simple clickable title",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-anchor-parser",
+    "react-native-anchor",
+    "anchor-link",
+    "anchor link",
+    "anchor tag",
+    "anchor parser",
+    "react native anchor link",
+    "react native anchor tag",
+    "react native anchor parser",
+    "react native anchor link parser",
+    "link",
+    "anchor",
+    "hyperlink"
+  ],
+  "author": "Anju <anjubaladev@gmail.com>",
+  "homepage": "https://github.com/anjubala-dev/react-native-anchor-parser.git#readme",
+  "bugs": {
+    "url": "https://github.com/anjubala-dev/react-native-anchor-parser.git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anjubala-dev/react-native-anchor-parser.git"
+  },
+  "license": "ISC"
+}
